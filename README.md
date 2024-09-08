@@ -1,6 +1,5 @@
 # Projeto de Exercícios - Curso DevStart SENAI
 
-!Badge
 
 ## Índice
 
