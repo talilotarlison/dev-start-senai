@@ -1,4 +1,4 @@
-# Projeto de Exercícios - Curso DevStart SENAI
+# Projeto de Exercícios - Curso Front-And - DevStart SENAI
 
 
 ## Índice
@@ -12,7 +12,7 @@
 
 ## Descrição
 
-Este projeto contém uma série de exercícios desenvolvidos durante o curso DevStart oferecido pelo SENAI. O objetivo é aplicar os conceitos aprendidos em sala de aula, como programação, desenvolvimento web e banco de dados.
+Este projeto contém uma série de exercícios desenvolvidos durante o curso Front and - DevStart oferecido pelo SENAI. O objetivo é aplicar os conceitos aprendidos em sala de aula, como programação, desenvolvimento web e banco de dados.
 
 ## Funcionalidades
 
