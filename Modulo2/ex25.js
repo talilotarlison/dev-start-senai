@@ -4,7 +4,7 @@ let config = {
 };
 
 console.log(config.moeda);
-console.log(config.moda); // é um erro de digitação
+console.log(config.moeda); // é um erro de digitação
 
 
 let curso = {
