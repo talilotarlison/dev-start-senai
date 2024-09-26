@@ -28,6 +28,7 @@ Este projeto contém uma série de exercícios desenvolvidos durante o curso Fro
 - JavaScript
 - Node.js
 - REACT
+- POO
 
 ## Como Executar o Projeto
 
