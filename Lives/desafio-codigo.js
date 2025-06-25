@@ -18,10 +18,15 @@ function separaPalavraEmArrayDeLetras(palavra){
 }
 
 function exibePalavraInvertida(palavra){
+  let saidaDados = `Palavra invertida: ${palavra}`;
+  console.log(saidaDados);
+}
+
+function main(palavra){
   let arrayLetras = separaPalavraEmArrayDeLetras(palavra);
   let arrayInvertido = inverteArrayLetras(arrayLetras);
   let palavraInvertida = juntarArrayLetrasEmPalavra(arrayInvertido);
-  console.log(palavraInvertida);
+  exibePalavraInvertida(palavraInvertida);
 }
 
-exibePalavraInvertida(entradaUsuario);
+main(entradaUsuario);
